@@ -59,4 +59,9 @@ install(TARGETS
   motion_plan
   DESTINATION lib/${PROJECT_NAME})
 
+install(DIRECTORY launch
+  DESTINATION share/${PROJECT_NAME})
+install(FILES rviz.rviz
+  DESTINATION share/${PROJECT_NAME})
+
 ament_package()
