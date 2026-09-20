@@ -243,7 +243,7 @@ ros2 run ego_planner motion_plan --ros-args \
 
 ## 作者与交流
 
-作者：**Chunyu Ju / JackJu**。
+作者：**鞠柏贤**。
 
 - 微信公众号：**机器人规划与控制研究所**。[相关技术文章](https://mp.weixin.qq.com/s/tjHMyyEMzsonYaVbrq4WTQ)
 - Bilibili：**机器人算法研究所**。[原项目演示视频](https://www.bilibili.com/video/BV11RUfB8ELb/)
