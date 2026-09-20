@@ -1,4 +1,4 @@
-# Two-Circle-EGO-Planner-ROS2
+# Two-Circle-EGO-Planner-2D-ROS2
 
 [![ROS2](https://img.shields.io/badge/ROS2-Humble-blue.svg)](https://docs.ros.org/en/humble/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
